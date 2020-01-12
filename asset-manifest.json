@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/knfizzo/restaurant-webapp.git/static/css/main.2f0956ea.chunk.css",
-    "main.js": "/knfizzo/restaurant-webapp.git/static/js/main.18539b15.chunk.js",
-    "main.js.map": "/knfizzo/restaurant-webapp.git/static/js/main.18539b15.chunk.js.map",
-    "runtime-main.js": "/knfizzo/restaurant-webapp.git/static/js/runtime-main.ab78b81a.js",
-    "runtime-main.js.map": "/knfizzo/restaurant-webapp.git/static/js/runtime-main.ab78b81a.js.map",
-    "static/js/2.f88f1df4.chunk.js": "/knfizzo/restaurant-webapp.git/static/js/2.f88f1df4.chunk.js",
-    "static/js/2.f88f1df4.chunk.js.map": "/knfizzo/restaurant-webapp.git/static/js/2.f88f1df4.chunk.js.map",
-    "index.html": "/knfizzo/restaurant-webapp.git/index.html",
-    "precache-manifest.f7ad7ec1e4db5bd72379a215db2747e7.js": "/knfizzo/restaurant-webapp.git/precache-manifest.f7ad7ec1e4db5bd72379a215db2747e7.js",
-    "service-worker.js": "/knfizzo/restaurant-webapp.git/service-worker.js",
-    "static/css/main.2f0956ea.chunk.css.map": "/knfizzo/restaurant-webapp.git/static/css/main.2f0956ea.chunk.css.map",
-    "static/js/2.f88f1df4.chunk.js.LICENSE": "/knfizzo/restaurant-webapp.git/static/js/2.f88f1df4.chunk.js.LICENSE",
-    "static/media/background.png": "/knfizzo/restaurant-webapp.git/static/media/background.dc6d00bb.png",
-    "static/media/search.css": "/knfizzo/restaurant-webapp.git/static/media/data.dc6d00bb.png",
-    "static/media/food.png": "/knfizzo/restaurant-webapp.git/static/media/food.5d6e62d8.png",
-    "static/media/phone.png": "/knfizzo/restaurant-webapp.git/static/media/phone.ec0e6aea.png",
-    "static/media/searchdetail.css": "/knfizzo/restaurant-webapp.git/static/media/resto_bg.5099807b.png"
+    "main.css": "/restaurant-webapp/static/css/main.422aff5f.chunk.css",
+    "main.js": "/restaurant-webapp/static/js/main.97da03a9.chunk.js",
+    "main.js.map": "/restaurant-webapp/static/js/main.97da03a9.chunk.js.map",
+    "runtime-main.js": "/restaurant-webapp/static/js/runtime-main.cc91109b.js",
+    "runtime-main.js.map": "/restaurant-webapp/static/js/runtime-main.cc91109b.js.map",
+    "static/js/2.2e23e78b.chunk.js": "/restaurant-webapp/static/js/2.2e23e78b.chunk.js",
+    "static/js/2.2e23e78b.chunk.js.map": "/restaurant-webapp/static/js/2.2e23e78b.chunk.js.map",
+    "index.html": "/restaurant-webapp/index.html",
+    "precache-manifest.b219c372b730b0aa631c3d4fc0b0339a.js": "/restaurant-webapp/precache-manifest.b219c372b730b0aa631c3d4fc0b0339a.js",
+    "service-worker.js": "/restaurant-webapp/service-worker.js",
+    "static/css/main.422aff5f.chunk.css.map": "/restaurant-webapp/static/css/main.422aff5f.chunk.css.map",
+    "static/js/2.2e23e78b.chunk.js.LICENSE": "/restaurant-webapp/static/js/2.2e23e78b.chunk.js.LICENSE",
+    "static/media/background.png": "/restaurant-webapp/static/media/background.dc6d00bb.png",
+    "static/media/search.css": "/restaurant-webapp/static/media/data.dc6d00bb.png",
+    "static/media/food.png": "/restaurant-webapp/static/media/food.5d6e62d8.png",
+    "static/media/phone.png": "/restaurant-webapp/static/media/phone.ec0e6aea.png",
+    "static/media/searchdetail.css": "/restaurant-webapp/static/media/resto_bg.5099807b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab78b81a.js",
-    "static/js/2.f88f1df4.chunk.js",
-    "static/css/main.2f0956ea.chunk.css",
-    "static/js/main.18539b15.chunk.js"
+    "static/js/runtime-main.cc91109b.js",
+    "static/js/2.2e23e78b.chunk.js",
+    "static/css/main.422aff5f.chunk.css",
+    "static/js/main.97da03a9.chunk.js"
   ]
 }
