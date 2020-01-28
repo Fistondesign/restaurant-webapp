@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/restaurant-webapp/static/css/main.a6baab3e.chunk.css",
-    "main.js": "/restaurant-webapp/static/js/main.ad549506.chunk.js",
-    "main.js.map": "/restaurant-webapp/static/js/main.ad549506.chunk.js.map",
+    "main.css": "/restaurant-webapp/static/css/main.907c91ba.chunk.css",
+    "main.js": "/restaurant-webapp/static/js/main.6b33d0bc.chunk.js",
+    "main.js.map": "/restaurant-webapp/static/js/main.6b33d0bc.chunk.js.map",
     "runtime-main.js": "/restaurant-webapp/static/js/runtime-main.cc91109b.js",
     "runtime-main.js.map": "/restaurant-webapp/static/js/runtime-main.cc91109b.js.map",
-    "static/js/2.c57b36aa.chunk.js": "/restaurant-webapp/static/js/2.c57b36aa.chunk.js",
-    "static/js/2.c57b36aa.chunk.js.map": "/restaurant-webapp/static/js/2.c57b36aa.chunk.js.map",
+    "static/js/2.5f0a50e3.chunk.js": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js",
+    "static/js/2.5f0a50e3.chunk.js.map": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js.map",
     "index.html": "/restaurant-webapp/index.html",
-    "precache-manifest.079c4a56719284fe05b421a3e52925c8.js": "/restaurant-webapp/precache-manifest.079c4a56719284fe05b421a3e52925c8.js",
+    "precache-manifest.e98b2979cc95714135776a5b7234efd8.js": "/restaurant-webapp/precache-manifest.e98b2979cc95714135776a5b7234efd8.js",
     "service-worker.js": "/restaurant-webapp/service-worker.js",
-    "static/css/main.a6baab3e.chunk.css.map": "/restaurant-webapp/static/css/main.a6baab3e.chunk.css.map",
-    "static/js/2.c57b36aa.chunk.js.LICENSE": "/restaurant-webapp/static/js/2.c57b36aa.chunk.js.LICENSE",
+    "static/css/main.907c91ba.chunk.css.map": "/restaurant-webapp/static/css/main.907c91ba.chunk.css.map",
+    "static/js/2.5f0a50e3.chunk.js.LICENSE": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js.LICENSE",
     "static/media/background.png": "/restaurant-webapp/static/media/background.dc6d00bb.png",
     "static/media/search.css": "/restaurant-webapp/static/media/data.dc6d00bb.png",
     "static/media/food.png": "/restaurant-webapp/static/media/food.5d6e62d8.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cc91109b.js",
-    "static/js/2.c57b36aa.chunk.js",
-    "static/css/main.a6baab3e.chunk.css",
-    "static/js/main.ad549506.chunk.js"
+    "static/js/2.5f0a50e3.chunk.js",
+    "static/css/main.907c91ba.chunk.css",
+    "static/js/main.6b33d0bc.chunk.js"
   ]
 }
