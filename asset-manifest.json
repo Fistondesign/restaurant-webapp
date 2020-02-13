@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/restaurant-webapp/static/css/main.907c91ba.chunk.css",
-    "main.js": "/restaurant-webapp/static/js/main.6b33d0bc.chunk.js",
-    "main.js.map": "/restaurant-webapp/static/js/main.6b33d0bc.chunk.js.map",
+    "main.css": "/restaurant-webapp/static/css/main.5af65251.chunk.css",
+    "main.js": "/restaurant-webapp/static/js/main.451d05d5.chunk.js",
+    "main.js.map": "/restaurant-webapp/static/js/main.451d05d5.chunk.js.map",
     "runtime-main.js": "/restaurant-webapp/static/js/runtime-main.cc91109b.js",
     "runtime-main.js.map": "/restaurant-webapp/static/js/runtime-main.cc91109b.js.map",
     "static/js/2.5f0a50e3.chunk.js": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js",
     "static/js/2.5f0a50e3.chunk.js.map": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js.map",
     "index.html": "/restaurant-webapp/index.html",
-    "precache-manifest.e98b2979cc95714135776a5b7234efd8.js": "/restaurant-webapp/precache-manifest.e98b2979cc95714135776a5b7234efd8.js",
+    "precache-manifest.27cf4bdcc2add2dcc7b2815500f56c53.js": "/restaurant-webapp/precache-manifest.27cf4bdcc2add2dcc7b2815500f56c53.js",
     "service-worker.js": "/restaurant-webapp/service-worker.js",
-    "static/css/main.907c91ba.chunk.css.map": "/restaurant-webapp/static/css/main.907c91ba.chunk.css.map",
+    "static/css/main.5af65251.chunk.css.map": "/restaurant-webapp/static/css/main.5af65251.chunk.css.map",
     "static/js/2.5f0a50e3.chunk.js.LICENSE": "/restaurant-webapp/static/js/2.5f0a50e3.chunk.js.LICENSE",
     "static/media/background.png": "/restaurant-webapp/static/media/background.dc6d00bb.png",
     "static/media/search.css": "/restaurant-webapp/static/media/data.dc6d00bb.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc91109b.js",
     "static/js/2.5f0a50e3.chunk.js",
-    "static/css/main.907c91ba.chunk.css",
-    "static/js/main.6b33d0bc.chunk.js"
+    "static/css/main.5af65251.chunk.css",
+    "static/js/main.451d05d5.chunk.js"
   ]
 }
